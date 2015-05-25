@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is like a clone but it's in the same directory, and usually copys the files so you can change them and then revert them
