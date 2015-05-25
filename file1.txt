@@ -1,0 +1,1 @@
+A clone is essentially a copy that is store on your local repository so you can edit it without editing the original
